@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../maimaida-common/maimaida-common.iml" filepath="$PROJECT_DIR$/../maimaida-common/maimaida-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maimaida-dao/maimaida-dao.iml" filepath="$PROJECT_DIR$/../maimaida-dao/maimaida-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maimaida-manager/maimaida-manager.iml" filepath="$PROJECT_DIR$/../maimaida-manager/maimaida-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maimaida-parent.iml" filepath="$PROJECT_DIR$/maimaida-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maimaida-pojo/maimaida-pojo.iml" filepath="$PROJECT_DIR$/../maimaida-pojo/maimaida-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maimaida-service/maimaida-service.iml" filepath="$PROJECT_DIR$/../maimaida-service/maimaida-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maimaida-web/maimaida-web.iml" filepath="$PROJECT_DIR$/../maimaida-web/maimaida-web.iml" />
+    </modules>
+  </component>
+</project>
