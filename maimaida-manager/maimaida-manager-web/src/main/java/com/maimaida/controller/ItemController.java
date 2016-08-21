@@ -1,4 +1,4 @@
-package com.maimaida.controller;
+锘縫ackage com.maimaida.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.maimaida.po.TbItem;
 import com.maimaida.service.ItemService;
 /**
- * 商品管理Controller
+ * 鍟嗗搧绠＄悊Controller
  * @author Ni Shengwu
  *
  */
