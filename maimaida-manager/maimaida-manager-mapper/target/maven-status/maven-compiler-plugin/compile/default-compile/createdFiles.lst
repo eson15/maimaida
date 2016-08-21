@@ -1,0 +1,11 @@
+com\maimaida\mapper\TbContentCategoryMapper.class
+com\maimaida\mapper\TbItemDescMapper.class
+com\maimaida\mapper\TbItemParamMapper.class
+com\maimaida\mapper\TbOrderShippingMapper.class
+com\maimaida\mapper\TbOrderMapper.class
+com\maimaida\mapper\TbOrderItemMapper.class
+com\maimaida\mapper\TbItemCatMapper.class
+com\maimaida\mapper\TbUserMapper.class
+com\maimaida\mapper\TbItemParamItemMapper.class
+com\maimaida\mapper\TbItemMapper.class
+com\maimaida\mapper\TbContentMapper.class

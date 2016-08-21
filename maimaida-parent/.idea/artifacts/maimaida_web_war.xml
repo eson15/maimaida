@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="maimaida-web:war">
-    <output-path>$PROJECT_DIR$/../maimaida-web/target</output-path>
-    <root id="archive" name="maimaida-web.war">
-      <element id="artifact" artifact-name="maimaida-web:war exploded" />
-    </root>
-  </artifact>
-</component>
