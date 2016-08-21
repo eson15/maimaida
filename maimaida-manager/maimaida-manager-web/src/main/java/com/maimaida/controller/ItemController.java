@@ -1,4 +1,4 @@
-﻿package com.maimaida.controller;
+package com.maimaida.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.maimaida.po.TbItem;
 import com.maimaida.service.ItemService;
 /**
- * 商品管理Controller
+ * ��ƷController
  * @author Ni Shengwu
  *
  */
@@ -24,4 +24,6 @@ public class ItemController {
 	public TbItem getItemById(@PathVariable Long itemId) {
 		return itemService.getItemById(itemId);
 	}
+	
+	
 }
