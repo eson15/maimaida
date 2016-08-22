@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Ò³ÃæÌø×ªController
+ * é¡µé¢è·³è½¬Controller
  * @author Ni Shengwu
  *
  */
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class PageController {
 
 	/**
-	 * Ìø×ªµ½Ê×Ò³
+	 * è·³è½¬åˆ°é¦–é¡µ
 	 * @return
 	 */
 	@RequestMapping("/")
@@ -22,7 +22,7 @@ public class PageController {
 	}
 	
 	/**
-	 * Ìø×ªµ½¾ßÌåÒ³Ãæ
+	 * è·³è½¬åˆ°å…·ä½“é¡µé¢
 	 * @param page
 	 * @return
 	 */

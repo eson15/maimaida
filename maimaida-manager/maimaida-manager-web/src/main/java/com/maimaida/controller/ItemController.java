@@ -6,10 +6,11 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import com.maimaida.common.pojo.EasyUIDataGridResult;
 import com.maimaida.po.TbItem;
 import com.maimaida.service.ItemService;
 /**
- * …Ã∆∑Controller
+ * ÂïÜÂìÅController
  * @author Ni Shengwu
  *
  */
@@ -25,5 +26,10 @@ public class ItemController {
 		return itemService.getItemById(itemId);
 	}
 	
+	@RequestMapping("/item/list")
+	@ResponseBody
+	public EasyUIDataGridResult getItemList(Integer page, Integer rows) {
+		return itemService.getItemList(page, rows);
+	}
 	
 }
